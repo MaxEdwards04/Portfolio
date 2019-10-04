@@ -46,14 +46,17 @@ body {
 
 .HTML {
     text-align: center;
+    margin: 1em;
 }
 
 .CSS {
     text-align: center;
+    margin: 1em;
 }
 
 .C {
     text-align: center;
+    margin: 1em;
 }
 
 .portfolio {
@@ -83,4 +86,31 @@ img {
 
 .a {
     text-align: center;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.Insta {
+    margin: 1em;
+}
+
+.Linkedin {
+    margin: 1em;
+}
+
+.CodePen {
+    margin: 1em;
+}
+
+.GitHub {
+    margin: 1em;
 }
